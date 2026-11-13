@@ -5,3 +5,4 @@ Cần: Java 17, MySQL, Maven (hoặc dùng mvnw).
 Chạy manga.sql trong MySQL để tạo database mangaone.
 Sửa username/password MySQL trong application.properties.
 Chạy ./mvnw spring-boot:run, rồi mở http://localhost:8080.
+Tài khoản: admin1@mangaone.com Mk:12345
